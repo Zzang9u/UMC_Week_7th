@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const MvContainer = styled.div`
+export const Container = styled.div`
         width: 160px;
         background-color: #373B69;
         height: 310px;
@@ -36,7 +36,7 @@ export const Incontent = styled.div`
         }
 `;
 
-export const MvInfo = styled.div`
+export const Info = styled.div`
         display: flex;
         margin-top: -4em;
         padding: 10px;
